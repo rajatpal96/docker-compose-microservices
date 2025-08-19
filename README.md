@@ -11,6 +11,13 @@ docker-compose-microservices with Grafana and Prometheus
 ####### Canary Deployment#########
 <img width="1334" height="467" alt="Screenshot 2025-08-19 at 4 31 02 PM" src="https://github.com/user-attachments/assets/1317f68e-658d-4166-9b6a-9041c18abdf0" />
 
+#########Kubernetes Dashboard############
+
+<img width="1470" height="948" alt="Screenshot 2025-08-19 at 4 33 51 PM" src="https://github.com/user-attachments/assets/c3bbb68c-26fb-45b0-a252-3f50c686a5b1" />
+<img width="1470" height="948" alt="Screenshot 2025-08-19 at 4 33 27 PM" src="https://github.com/user-attachments/assets/c601f687-bf89-4d18-a56c-37edfa7931a6" />
+
+
+
 
 
 
